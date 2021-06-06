@@ -1,4 +1,4 @@
-# Online 11 -TodasEmTech- Javascript-I
+# Online 11 -TodasEmTech-s2-Javascript-I
 
  Back-end | 2021 | Semana 2 | Lógica e Javascript I
 
